@@ -1,5 +1,7 @@
 # ForgeAI Voice 🎙️
 
+![ForgeAI Voice Architecture](docs/ForgeAI-Voice-Architecture-Infographic.png)
+
 I've been working on ForgeAI Voice as a side project to explore how to build a voice-based AI assistant from scratch.
 
 The idea is simple: I should be able to talk to my assistant, ask questions, ask follow-up questions without repeating the context, and eventually get it to perform useful tasks.
